@@ -1,0 +1,13 @@
+.container{
+    position: relative;
+    margin: 0 auto;
+}
+.photo{
+    position: absolute;
+    width: 24%;
+    height: auto;
+}
+
+.photo img{
+    width: 100%;
+}
